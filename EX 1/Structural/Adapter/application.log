@@ -1,0 +1,6 @@
+Sep 29, 2025 10:38:20 PM Main main
+INFO: Starting Media Player Application
+Sep 29, 2025 10:38:22 PM AudioPlayer play
+INFO: Playing mp3 file: song.mp3
+Sep 29, 2025 10:38:28 PM Main main
+INFO: Application exiting. Goodbye!
